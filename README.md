@@ -3,18 +3,18 @@
 [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 
 ### Some notes about "Deep Learning Specialization" are uploaded. 
-This can be called a huge project to summarize it. Please check out `00 Notes` folder. 
+This can be called a huge project to summarize it. Please check out <font color=red>00 Notes</font> folder at first. 
 
 ### Other folders are my assignments of this class, which consists of five courses.
 This special course consists of five courses:
-- Neural Networks and Deep Learning: Assignments 01, 02, 03, 04, 05
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: Assignments 06, 07, 08, 09, 10
-- Structuring Machine Learning Projects: No assignments
-- Convolutional Neural Networks: Assignments 11, 12, 13, 14, 15
-- Sequence Models: to be continued
+1. Neural Networks and Deep Learning: **Assignments 01, 02, 03, 04, 05**
+2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: **Assignments 06, 07, 08, 09, 10**
+3. Structuring Machine Learning Projects: **No assignments**
+4. Convolutional Neural Networks: **Assignments 11, 12, 13, 14, 15**
+5. Sequence Models: **to be continued**
 
 
-**Neural Networks and Deep Learning**
+**1. Neural Networks and Deep Learning**
 
 In this course, you will learn the foundations of deep learning. When you finish this class, you will:
 - Understand the major technology trends driving Deep Learning
@@ -24,7 +24,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 - This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
 
 
-**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+**2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
 When you finish this class, you will:
 - Understand industry best-practices for building deep learning applications.
@@ -34,7 +34,7 @@ When you finish this class, you will:
 - Be able to implement a neural network in TensorFlow.
 
 
-**Structuring Machine Learning Projects**
+**3. Structuring Machine Learning Projects**
 
 You will learn how to build a successful machine learning project. When you finish this class, you will:
 - Understand how to diagnose errors in a machine learning system, and be able to prioritize the most promising directions for reducing error.
@@ -42,7 +42,7 @@ You will learn how to build a successful machine learning project. When you fini
 - Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
 
-**Convolutional Neural Networks**
+**4. Convolutional Neural Networks**
 
 This course will teach you how to build convolutional neural networks and apply it to image data. When you finish this class,you will:
 - Understand how to build a convolutional neural network, including recent variations such as residual networks.
@@ -51,7 +51,7 @@ This course will teach you how to build convolutional neural networks and apply 
 - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
 
-**Sequence Models**
+**5. Sequence Models**
 
 This course will teach you how to build models for natural language, audio, and other sequence data. When you finish this class,you will:
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
