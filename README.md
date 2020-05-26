@@ -1,11 +1,11 @@
-## Deep Learning Specialization: 
+# Deep Learning Specialization
 
 [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 
-### Some notes about "Deep Learning Specialization" are uploaded. 
+## Some notes about "Deep Learning Specialization" are uploaded. 
 This can be called a huge project to summarize it. Please check out `00 Notes` folder at first. 
 
-### Other folders are my assignments of this class, which consists of five courses.
+## Other folders are my assignments of this class, which consists of five courses.
 This special course consists of five courses:
 1. Neural Networks and Deep Learning: **Assignments 01, 02, 03, 04, 05**
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: **Assignments 06, 07, 08, 09, 10**
@@ -44,7 +44,7 @@ You will learn how to build a successful machine learning project. When you fini
 
 **4. Convolutional Neural Networks**
 
-This course will teach you how to build convolutional neural networks and apply it to image data. When you finish this class,you will:
+This course will teach you how to build convolutional neural networks and apply it to image data. When you finish this class, you will:
 - Understand how to build a convolutional neural network, including recent variations such as residual networks.
 - Know how to apply convolutional networks to visual detection and recognition tasks.
 - Know to use neural style transfer to generate art.
@@ -53,7 +53,7 @@ This course will teach you how to build convolutional neural networks and apply 
 
 **5. Sequence Models**
 
-This course will teach you how to build models for natural language, audio, and other sequence data. When you finish this class,you will:
+This course will teach you how to build models for natural language, audio, and other sequence data. When you finish this class, you will:
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 - Be able to apply sequence models to natural language problems, including text synthesis.
 - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
