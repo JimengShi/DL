@@ -57,3 +57,8 @@ This course will teach you how to build models for natural language, audio, and 
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 - Be able to apply sequence models to natural language problems, including text synthesis.
 - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+## Reference:
+[1] https://www.coursera.org/specializations/deep-learning
+
+[2] https://github.com/fengdu78/deeplearning_ai_books
