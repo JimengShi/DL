@@ -1,6 +1,10 @@
 # Deep Learning Specialization
 
-[https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+course: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+
+<div align="left">
+<img src="https://github.com/JimengShi/Deep-Learning-Coursera/blob/master/images/course.png" alt="course" >
+</div>
 
 ## Some notes about "Deep Learning Specialization" are uploaded. 
 This can be called a huge project to summarize it. Please check out `00 Notes -- BIG PROJECT` folder at first. 
