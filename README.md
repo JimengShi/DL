@@ -3,7 +3,7 @@
 [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 
 ## Some notes about "Deep Learning Specialization" are uploaded. 
-This can be called a huge project to summarize it. Please check out <font color='red'>00 Notes</font> folder at first. 
+This can be called a huge project to summarize it. Please check out <span style="color:red">some **00 Notes -- BIG PROJECT** text</span> folder at first. 
 
 ## Other folders are my assignments of this class, which consists of five courses.
 This special course consists of five courses:
