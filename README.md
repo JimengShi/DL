@@ -7,7 +7,9 @@ course: [https://www.coursera.org/specializations/deep-learning](https://www.cou
 </div>
 
 ## Some notes about "Deep Learning Specialization" are uploaded. 
-This can be called a huge project to summarize it. Please check out `00 Notes -- BIG PROJECT` folder at first. 
+This can be called a huge project to summarize it. Please check out `00 Notes -- BIG PROJECT` folder at first. Both Chinese version and English version will be updated in the future.
+
+To be continued...
 
 ## Other folders are my assignments of this class, which consists of five courses.
 This special course consists of five courses:
