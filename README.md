@@ -3,7 +3,7 @@
 course: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 
 <div align="left">
-<img src="https://github.com/JimengShi/Deep-Learning-Coursera/blob/master/images/course.png" alt="course" >
+<img src="https://github.com/JimengShi/Deep-Learning-Coursera/blob/master/images/course1.png" alt="course" >
 </div>
 
 ## Some notes about "Deep Learning Specialization" are uploaded. 
